@@ -1,1 +1,1 @@
-### docker mastery course [ `https://udemy.com/course/docker-mastery` ]
+### docker mastery course [ <small style="font-size: 70%; font-family: monospace">`https://udemy.com/course/docker-mastery`</small> ]
